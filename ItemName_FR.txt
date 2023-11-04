@@ -1,0 +1,7 @@
+ItemName_FR = {
+	ItemName_Base.CamoAxe = "Hache utilitaire Woodland",
+	ItemName_Base.CamoHandAxe = "Hachette Woodland",
+	ItemName_Base.CamoShovel = "Pelle utilitaire Woodland",
+	ItemName_Base.XM93LabContainer = "XM93 Conteneurs",
+	ItemName_Base.XM93VehicleInterior = "Espace intérieur",
+}

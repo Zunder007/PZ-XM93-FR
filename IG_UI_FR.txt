@@ -1,0 +1,8 @@
+IG_UI_FR = {
+    IGUI_VehicleNameXM93Woodland = "XM93",
+    IGUI_VehicleNameXM93Desert = "XM93",
+
+    IGUI_VehiclePartXM93LabContainer = "Conteneurs intérieurs",
+    IGUI_VehiclePartXM93VehicleInterior = "XM93 Espace intérieur",
+
+}
